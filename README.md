@@ -35,8 +35,10 @@ To study the mode characteristics of fiber optic cable and observe the lower ord
 # Observation and Calculation
 <img width="442" height="136" alt="image" src="https://github.com/user-attachments/assets/3d0b54ac-b870-412c-9344-ef34bda44f69" />
 
+<img width="2715" height="1641" alt="WhatsApp Image 2026-05-26 at 9 15 07 AM" src="https://github.com/user-attachments/assets/63cff3ae-0b0b-48a5-ab91-22514ee9a6d7" />
 
 ---
 
 # Result
 
+Thus the experiment was successfully completed and the output is verified.
